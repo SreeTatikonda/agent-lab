@@ -1,0 +1,24 @@
+Subject: Meeting Follow-up & Action Items: Project Echo Kickoff
+
+Hi Team,
+
+Thank you for joining today's meeting. Here is a summary of what was discussed, decisions made, and next steps.
+
+### Executive Summary
+Kickoff meeting for Project Echo. The team discussed and finalized the core tech stack (React, TypeScript, Vite for frontend; FastAPI, PostgreSQL for backend) and agreed on a glassmorphic dark-mode design system. Key initial tasks were assigned to Sarah, David, Emma, and Alex to set up base boilerplates and wireframes.
+
+### Key Decisions
+- Use React + TypeScript + Vite for the frontend application.
+- Use Python + FastAPI for the backend API development.
+- Use PostgreSQL as the primary relational database.
+- Adopt a glassmorphic dark-mode theme for the UI design.
+
+### Action Items
+- [ ] Initialize React project boilerplate with Vite and TypeScript [Sarah] (Due: 2026-06-26)
+- [ ] Draft initial PostgreSQL database schema design and migrations [David] (Due: 2026-07-05)
+- [ ] Deliver high-fidelity Figma wireframes and layout designs [Emma] (Due: 2026-06-30)
+- [ ] Set up Jira board and prepare project roadmap slides [Alex] (Due: 2026-06-26)
+
+
+Best regards,
+EchoScribe Meeting Assistant

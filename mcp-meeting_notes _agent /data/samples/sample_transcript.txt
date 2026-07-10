@@ -1,0 +1,11 @@
+[00:00] Alex (PM): Hi team, welcome to the kickoff for our new project. Today we need to align on the core features, select our technology stack, and distribute the initial development tasks.
+[00:20] Sarah (Frontend Dev): Hi everyone. For the client application, I'm proposing we use React + TypeScript built with Vite. It gives us an extremely fast dev loop, clean components, and strong typing which will help prevent frontend bugs.
+[00:45] David (Backend Dev): I like that. For the API backend, I suggest Python using FastAPI. It's clean, automatically generates docs, and integrates perfectly with Pydantic for data validation. For storage, PostgreSQL is my recommendation for reliable relational data.
+[01:15] Emma (Designer): That works for me. I've started putting together references for a glassmorphic dark-mode theme. I will have the high-fidelity Figma layouts for the dashboard finished by next Tuesday, June 30th.
+[01:35] Alex (PM): Excellent. Let's agree on React + TypeScript for frontend, FastAPI + PostgreSQL for backend, and a glassmorphic dark UI.
+[01:50] Alex (PM): For task assignments: Sarah, can you initialize the React boilerplate by Friday?
+[02:05] Sarah (Frontend Dev): Yes, I will set up the repository and configure the styling configurations.
+[02:15] Alex (PM): David, could you draft the initial database schema design by July 5th?
+[02:30] David (Backend Dev): Sure, I can do that. I will write the schemas and database migrations.
+[02:40] Alex (PM): Emma, you will deliver the Figma wireframes on June 30th. And I'll set up our Jira board and prepare the project roadmap slides for stakeholder review by tomorrow evening.
+[03:00] Alex (PM): Let's sync up again next Wednesday. Thanks everyone, let's get building!

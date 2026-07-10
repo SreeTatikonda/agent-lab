@@ -1,0 +1,109 @@
+{
+  "meeting_notes": {
+    "title": "Project Echo Kickoff",
+    "date": "2026-06-25",
+    "summary": "Kickoff meeting for Project Echo. The team discussed and finalized the core tech stack (React, TypeScript, Vite for frontend; FastAPI, PostgreSQL for backend) and agreed on a glassmorphic dark-mode design system. Key initial tasks were assigned to Sarah, David, Emma, and Alex to set up base boilerplates and wireframes.",
+    "template": "general",
+    "attendees": [
+      "Alex (PM)",
+      "Sarah (Frontend Dev)",
+      "David (Backend Dev)",
+      "Emma (Designer)"
+    ],
+    "decisions": [
+      "Use React + TypeScript + Vite for the frontend application.",
+      "Use Python + FastAPI for the backend API development.",
+      "Use PostgreSQL as the primary relational database.",
+      "Adopt a glassmorphic dark-mode theme for the UI design."
+    ],
+    "action_items": [
+      {
+        "text": "Initialize React project boilerplate with Vite and TypeScript",
+        "assignee": "Sarah",
+        "deadline": "2026-06-26",
+        "status": "Pending"
+      },
+      {
+        "text": "Draft initial PostgreSQL database schema design and migrations",
+        "assignee": "David",
+        "deadline": "2026-07-05",
+        "status": "Pending"
+      },
+      {
+        "text": "Deliver high-fidelity Figma wireframes and layout designs",
+        "assignee": "Emma",
+        "deadline": "2026-06-30",
+        "status": "Pending"
+      },
+      {
+        "text": "Set up Jira board and prepare project roadmap slides",
+        "assignee": "Alex",
+        "deadline": "2026-06-26",
+        "status": "Pending"
+      }
+    ],
+    "transcript": [
+      {
+        "speaker": "Alex (PM)",
+        "text": "Hi team, welcome to the kickoff for our new project. Today we need to align on the core features, select our technology stack, and distribute the initial development tasks.",
+        "timestamp": 0.0
+      },
+      {
+        "speaker": "Sarah (Frontend Dev)",
+        "text": "For the client application, I'm proposing we use React + TypeScript built with Vite.",
+        "timestamp": 20.0
+      },
+      {
+        "speaker": "David (Backend Dev)",
+        "text": "For the API backend, I suggest Python using FastAPI with PostgreSQL for storage.",
+        "timestamp": 45.0
+      },
+      {
+        "speaker": "Emma (Designer)",
+        "text": "I will have the Figma wireframes for the dashboard finished by June 30th.",
+        "timestamp": 75.0
+      },
+      {
+        "speaker": "Alex (PM)",
+        "text": "Great. Sarah, can you initialize the React boilerplate by Friday?",
+        "timestamp": 110.0
+      },
+      {
+        "speaker": "David (Backend Dev)",
+        "text": "I will draft the initial database schema design by July 5th.",
+        "timestamp": 135.0
+      }
+    ]
+  },
+  "tickets": [
+    {
+      "title": "Task: Initialize React project boilerplate wit...",
+      "description": "Action Item: Initialize React project boilerplate with Vite and TypeScript\nAssignee: Sarah\nDeadline: 2026-06-26\n\nGenerated from meeting 'Project Echo Kickoff' on 2026-06-25.",
+      "assignee": "Sarah",
+      "priority": "High",
+      "platform": "Jira"
+    },
+    {
+      "title": "Task: Draft initial PostgreSQL database schema...",
+      "description": "Action Item: Draft initial PostgreSQL database schema design and migrations\nAssignee: David\nDeadline: 2026-07-05\n\nGenerated from meeting 'Project Echo Kickoff' on 2026-06-25.",
+      "assignee": "David",
+      "priority": "High",
+      "platform": "Jira"
+    },
+    {
+      "title": "Task: Deliver high-fidelity Figma wireframes a...",
+      "description": "Action Item: Deliver high-fidelity Figma wireframes and layout designs\nAssignee: Emma\nDeadline: 2026-06-30\n\nGenerated from meeting 'Project Echo Kickoff' on 2026-06-25.",
+      "assignee": "Emma",
+      "priority": "High",
+      "platform": "Jira"
+    },
+    {
+      "title": "Task: Set up Jira board and prepare project ro...",
+      "description": "Action Item: Set up Jira board and prepare project roadmap slides\nAssignee: Alex\nDeadline: 2026-06-26\n\nGenerated from meeting 'Project Echo Kickoff' on 2026-06-25.",
+      "assignee": "Alex",
+      "priority": "High",
+      "platform": "Jira"
+    }
+  ],
+  "email_draft": "Subject: Meeting Follow-up & Action Items: Project Echo Kickoff\n\nHi Team,\n\nThank you for joining today's meeting. Here is a summary of what was discussed, decisions made, and next steps.\n\n### Executive Summary\nKickoff meeting for Project Echo. The team discussed and finalized the core tech stack (React, TypeScript, Vite for frontend; FastAPI, PostgreSQL for backend) and agreed on a glassmorphic dark-mode design system. Key initial tasks were assigned to Sarah, David, Emma, and Alex to set up base boilerplates and wireframes.\n\n### Key Decisions\n- Use React + TypeScript + Vite for the frontend application.\n- Use Python + FastAPI for the backend API development.\n- Use PostgreSQL as the primary relational database.\n- Adopt a glassmorphic dark-mode theme for the UI design.\n\n### Action Items\n- [ ] Initialize React project boilerplate with Vite and TypeScript [Sarah] (Due: 2026-06-26)\n- [ ] Draft initial PostgreSQL database schema design and migrations [David] (Due: 2026-07-05)\n- [ ] Deliver high-fidelity Figma wireframes and layout designs [Emma] (Due: 2026-06-30)\n- [ ] Set up Jira board and prepare project roadmap slides [Alex] (Due: 2026-06-26)\n\n\nBest regards,\nEchoScribe Meeting Assistant\n"
+}
