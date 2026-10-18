@@ -1,0 +1,5 @@
+{
+  "id": "pagination",
+  "issue": "The catalog never shows the last page when it is not full. With 7 products and 5 per page, page 2 is empty but it should show products 6 and 7. The page counter in the UI also says 1 page instead of 2.",
+  "hidden_tests": "hidden/test_hidden_paging.py"
+}

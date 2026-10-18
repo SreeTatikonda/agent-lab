@@ -1,0 +1,5 @@
+{
+  "id": "slugify",
+  "issue": "Slugs come out with double dashes like hello--world when a title has extra spaces, tabs or newlines, and sometimes start or end with a dash. Slugs should use single dashes between words with no leading or trailing dash.",
+  "hidden_tests": "hidden/test_hidden_slug.py"
+}
