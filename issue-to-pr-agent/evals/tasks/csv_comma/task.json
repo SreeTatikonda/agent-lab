@@ -1,0 +1,5 @@
+{
+  "id": "csv_comma",
+  "issue": "Exporting invoices to CSV breaks when a customer name contains a comma. The row gets an extra column and our importer crashes. Names can also contain double quotes. Fields should be quoted properly. Plain rows must stay byte-for-byte the same.",
+  "hidden_tests": "hidden/test_hidden_csv.py"
+}
